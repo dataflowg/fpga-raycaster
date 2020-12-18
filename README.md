@@ -47,7 +47,7 @@ COM (Blue GND)  | 1           | -        | 8
 
 ![Video adapter schematic](images/9401-to-vga-schematic.png?raw=true)
 
-The two bits per color allow for up to 64 colors in total. The image below shows a side-by-side of a 64 color image, and the resulting output from the video adapter. The colors aren't great compared to the source image, but for 50c worth of video adapter, they aren't bad.
+The two bits per color allow for up to 64 colors in total. The image below shows a side-by-side of a 64 color image, and the resulting output from the video adapter. The colors aren't great compared to the source image, but for a couple of dollars' worth of video adapter, they aren't bad.
 
 ![Video adapter](images/64-color-palette-side-by-side.jpg?raw=true)
 
